@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Minimal Hierarchical Reinforcement Learning
+authors:
+  - family-names: Pankratov
+    given-names: Felix
+version: 0.1.0
+date-released: 2026-02-01
